@@ -14,6 +14,6 @@ public class HelloWildFlyController {
 
     @RequestMapping("test")
     public String sayHelloDavid(){
-        return ("Hola MAC.");
+        return ("Hola JMC.");
     }
 }
